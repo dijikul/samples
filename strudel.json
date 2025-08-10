@@ -9,6 +9,8 @@
     "dial": "samples/Telephone/dial.wav",
     "dialin2": "samples/Telephone/dialin2.wav",
     "dialin3": "samples/Telephone/dialin3.wav",
+    "dialing": "samples/Telephone/dialing.wav",
+    "dialtone": "samples/Telephone/dialtone.wav",
     "longdial": "samples/Telephone/longdial.wav",
     "longring": "samples/Telephone/longring.wav",
     "modem": "samples/Telephone/modem.wav",
